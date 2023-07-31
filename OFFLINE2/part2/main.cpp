@@ -392,7 +392,7 @@ int main(){
 			int leftCol = width, rightCol = -1;
 			if(intersectionPoints.size() >= 1){
 				leftCol = round((intersectionPoints[0][0] - Left_X) / dx);
-				if(intersectionPoints == 2){
+				if(intersectionPoints.size() == 2){
 					rightCol = round((intersectionPoints[1][0] - Left_X) / dx);
 				}else{
 					rightCol = leftCol;
