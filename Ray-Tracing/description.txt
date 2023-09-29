@@ -1,11 +1,11 @@
 1 1000 80 1
-5
+3
 768
 
 50
 0.1 0.3 0.6
 
-6
+4
 
 cube
 -100 -100 10
@@ -32,22 +32,6 @@ pyramid
 sphere
 -20.0 -20.0 20.0
 15.0
-1.0 0.0 1.0
-0.2 0.3 0.1 0.3
-30
-
-
-cube
--100 100 10
-40.0
-0.0 0.5 1.0
-0.15 0.1 0.4 0.45
-10
-
-
-sphere
-100.0 -20.0 25.0
-25.0
 1.0 0.0 1.0
 0.2 0.3 0.1 0.3
 30
@@ -106,3 +90,4 @@ cube
 -70.0 70.0 70.0 0.0000002	position of the source, falloff parameter
 -10 10 10			point to which it is looking
 30				cutoff angle in degrees
+
