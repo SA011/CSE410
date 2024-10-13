@@ -20,7 +20,7 @@
 ## **`Offline2 : Raster based Graphics pipeline`**
 
 <p align="center">
-  <img src="https://github.com/SA011/CSE410/blob/master/Offline%202%20%3A%20Raster%20based%20Graphics%20pipeline/Test%20Cases/3/out.bmp"
+  <img src="https://github.com/SA011/CSE410/blob/master/Offline%202%20%3A%20Raster%20based%20Graphics%20pipeline/Test%20Cases/3/ray-tracing.gif"
   height="400px" width="40%" alt="rasterization">
 </p>
 
