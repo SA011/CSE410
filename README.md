@@ -20,7 +20,7 @@
 ## **`Offline2 : Raster based Graphics pipeline`**
 
 <p align="center">
-  <img src="https://github.com/SA011/CSE410/blob/master/Offline%202%20%3A%20Raster%20based%20Graphics%20pipeline/Test%20Cases/3/ray-tracing.gif"
+  <img src="https://github.com/SA011/CSE410/blob/master/Offline%202%20%3A%20Raster%20based%20Graphics%20pipeline/Test%20Cases/3/out.bmp"
   height="400px" width="40%" alt="rasterization">
 </p>
 
@@ -40,7 +40,7 @@ A demo of the input can be found in `Test Cases` folder. There are 5 testcases, 
 ## **`Offline3 : Implementation-of-Ray-Tracing`**
 
 <p align="center">
-<img src="https://github.com/SA011/CSE410/blob/master/Offline%203%20%3A%20Ray%20Tracing/out.bmp" height="50%" width="50%" alt="ray tracing" />
+<img src="https://github.com/SA011/CSE410/blob/master/Offline%203%20%3A%20Ray%20Tracing/ray-tracing.gif" height="50%" width="50%" alt="ray tracing" />
 </p>
 
 ---
